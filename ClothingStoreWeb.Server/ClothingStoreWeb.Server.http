@@ -1,0 +1,6 @@
+@ClothingStoreWeb.Server_HostAddress = http://localhost:5090
+
+GET {{ClothingStoreWeb.Server_HostAddress}}/colors/
+Accept: application/json
+
+###
